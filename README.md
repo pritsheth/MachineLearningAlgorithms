@@ -1,5 +1,12 @@
 Welcome to the K means clustering wiki!
 
+
+
+![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png "Written in Python")<br >
+
+
+
+
 # K Means clustering for breast cancer data:
 
 In K means clustering, we will compute the distance of each data point with the centroid and can choose the nearest centroid to the data point. Based on different K value we can decide for which K value what is the best value of potential function. 
